@@ -1,0 +1,6 @@
+{
+  "name": "TORDAOweb3 Agent",
+  "description": "Premium Solana-only News Agent Dashboard. Monitoring DEX/RPC scans, AI twitter news detection, 18 Daily Verified messages scheduler, 2 Quantum updates, Sponsor self-logging, and Telegram bot control, complete with telemetry integrations (Arize, Dynatrace, Elastic, Fivetran).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
